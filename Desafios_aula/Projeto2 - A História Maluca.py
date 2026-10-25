@@ -1,3 +1,8 @@
+# Contexto:
+# Mad Lib é um jogo de palavras. Uma pessoa pede ao grupo palavras soltas (um nome, um adjetivo, uma comida...) sem contar para que servem. 
+# Depois, ela encaixa tudo nos espaços em branco de uma história pronta, e o resultado costuma ser bem engraçado.
+# Neste projeto, o seu programa assume o papel de quem conduz o jogo.
+
 Nome = input("Digite o nome: ")
 Profissão = input("Digite a profissão: ")
 Primeiro_Adjetivo = input("Digite o primeiro adjetivo: ")
